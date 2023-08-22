@@ -6,3 +6,5 @@ def consultarSaldo(conta: int) -> None:
         print(f"Seu Saldo:{cliente['saldp']}")
     else:
         print('Cliente não encontrado')
+
+Boa, vc é 10!
